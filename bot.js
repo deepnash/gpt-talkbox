@@ -2,7 +2,6 @@
 // This is your new function. To start, set the name and path on the left.
 const axios = require('axios');
 
-const syncSID = "ISca82ad5c45decc47c9b418614a9eeab3";
 const myMapName = "mymap";
 
 exports.handler = async (context, event, callback) => {
